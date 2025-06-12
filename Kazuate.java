@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class guessTheNumber {
+public class Kazuate {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int answer = 73; // プログラマが設定する2桁の正の整数（例として73）
